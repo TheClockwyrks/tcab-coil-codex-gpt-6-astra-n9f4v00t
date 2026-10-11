@@ -1,0 +1,11 @@
+[[media]]
+file = "combo.json.gz"
+name = "Chasing the five-times combo"
+
+[[media]]
+file = "board.png"
+name = "Leave room for the next turn"
+
+[[media]]
+file = "title.png"
+name = "Enter the coil"
